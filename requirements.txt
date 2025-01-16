@@ -1,3 +1,5 @@
 loguru==0.5.3
+password_generator==0.1.0
+random_username==1.0.2
 selenium==4.27.1
 seleniumbase==4.33.15
